@@ -1,1 +1,0 @@
-This is RSA Factoring Challenge project
